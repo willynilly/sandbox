@@ -11,3 +11,4 @@ This is a blank document for us to learn about branching and merging. In the spa
 * A Series of Unfortunate Events
 * Ender's Game
 * Dinosaurs Before Dark 
+* Hardy Boys
