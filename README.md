@@ -17,3 +17,4 @@ This is a blank document for us to learn about branching and merging. In the spa
 * Redwall
 * Eragon
 * The Life of Pi
+* The Horse and His Boy
