@@ -12,3 +12,8 @@ This is a blank document for us to learn about branching and merging. In the spa
 * Ender's Game
 * Dinosaurs Before Dark 
 * Hardy Boys
+* The Phantom Tollbooth
+* The Poisonwood Bible
+* Redwall
+* Eragon
+* The Life of Pi
